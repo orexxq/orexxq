@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; gap: .4rem; flex-wrap: wrap; justify-content: center;">
+<div style="width:100%; height: 300px; display: flex; gap: .4rem; flex-wrap: wrap; justify-content: center;">
     <div>
         <img style="width:100%; height: 100%"
             src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave" />

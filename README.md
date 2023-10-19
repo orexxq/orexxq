@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div styles="display: flex; width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orexxq&layout=compact&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orexxq&layout=compact&langs_count=6"/>
 </div>

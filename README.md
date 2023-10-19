@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div styles="display: flex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orexxq&layout=compact&langs_count=6"/>
 </div>

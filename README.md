@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:100%; height: 300px; display: flex; gap: .4rem; flex-wrap: wrap; justify-content: center;">
-    <div>
-        <img style="width:100%; height: 100%"
-            src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave" />
-    </div>
-    <div>
-        <img style="width:100%; height: 100%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=orexxq&layout=compact&langs_count=6" />
-    </div>
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orexxq&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orexxq&layout=compact&langs_count=6"/>
 </div>
